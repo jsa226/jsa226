@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ...getting started with GitHub.
-- 🌱 I’m currently learning ...how to manage source code with Git
+- 🌱 I’m currently learning ...how to manage source code with Git.
 - 👯 I’m looking to collaborate on ...to be determined.
 - 🤔 I’m looking for help with ...to be discovered.
 - 💬 Ask me about ...how I got here.
